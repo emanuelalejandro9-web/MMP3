@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Práctica 2: Caos en sistemas biológicos'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Emmanuel F.
+    family-names: Gonzalez
+    email: m26210085@tectijuana.edu.mx
+    affiliation: TecNM / IT Tijuana
+repository-code: 'https://github.com/emanuelalejandro9-web/MMP3'
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-11-22'
