@@ -142,9 +142,13 @@ $$r_2 y (1 - b_2 y) = 0, \qquad -d_3 z + \rho_i = 0,$$
 
 se obtienen dos puntos de equilibrio de interés biológico en la frontera libre de tumor[cite: 6, 7]:
 
-$$E_0 = \left(x_0^*, y_0^*, z_0^*\right) = \left(0,\; 0,\; \frac{\rho_i}{d_3}\right),$$
+$$
+E_0 = \left(x_0^{\ast},\; y_0^{\ast},\; z_0^{\ast}\right) = \left(0,\; 0,\; \frac{\rho_i}{d_3}\right),
+$$
 
-$$E_1 = \left(x_1^*, y_1^*, z_1^*\right) = \left(0,\; \frac{1}{b_2},\; \frac{\rho_i}{d_3}\right).$$
+$$
+E_1 = \left(x_1^{\ast},\; y_1^{\ast},\; z_1^{\ast}\right) = \left(0,\; \frac{1}{b_2},\; \frac{\rho_i}{d_3}\right).
+$$
 
 El punto $E_0$ representa la extinción total de células patológicas y sanas, mientras que $E_1$ corresponde al **equilibrio saludable deseado**, donde las células sanas alcanzan su capacidad de carga $1/b_2$ y las células patológicas son erradicadas[cite: 7]. En total, la resolución simbólica con `solve` identifica **6 puntos de equilibrio** algebraicos en el sistema[cite: 26, 48].
 
