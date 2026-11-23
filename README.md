@@ -192,9 +192,13 @@ Si $\rho_i < \frac{d_3}{a_{13}}\left(r_1 - \frac{a_{12}}{b_2}\right)$, las célu
 
 ### 1. Localización de conjuntos compactos invariantes
 
-Mediante el método de localización de conjuntos compactos invariantes usando funciones localizadoras $h_1 = x$, $h_2 = y$ y $h_3 = z$ y sus respectivas derivadas de Lie $L_f h_i = \dot{x}_i$, se determinan las cotas superiores e inferiores de las trayectorias en $\mathbb{R}_{+,0}^3$ (bajo la condición $r_3 > a_{31}$)[cite: 9, 10, 11, 12]:
+Mediante el método de localización de conjuntos compactos invariantes usando funciones localizadoras $h_1 = x$, $h_2 = y$ y $h_3 = z$ y sus respectivas derivadas de Lie $L_{f}h_{i} = \dot{x}_{i}$, se determinan las cotas superiores e inferiores de las trayectorias en $\mathbb{R}_{+,0}^{3}$ (bajo la condición $r_3 > a_{31}$):
 
-$$K_x = \left\{ 0 \le x(t) \le \frac{1}{b_1} \right\}, \qquad K_y = \left\{ 0 \le y(t) \le \frac{1}{b_2} \right\}, \qquad K_z = \left\{ z(t) \ge \frac{\rho_i}{d_3} \right\}.$$
+$$
+K_x = \left\lbrace 0 \le x(t) \le \frac{1}{b_1} \right\rbrace, \qquad
+K_y = \left\lbrace 0 \le y(t) \le \frac{1}{b_2} \right\rbrace, \qquad
+K_z = \left\lbrace z(t) \ge \frac{\rho_i}{d_3} \right\rbrace.
+$$
 
 ### 2. Método directo de Lyapunov
 
